@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 27/11/2024
 ## Register Number: 24901093
-## Name: AMIRTHA VARSHINI M
+## Name: AMIRTHA VARSHINI Mhttps://github.com/amirthasaravanan/SIHPS/blob/main/README.md
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
